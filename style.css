@@ -1,0 +1,47 @@
+
+* {margin:1px;
+    box-sizing: border-box;
+    text-decoration: none;
+   
+}
+
+body {direction:ltr;
+        text-align: left;
+        background-color: rgba(241, 142, 142, 0.4);
+        
+       }
+
+h1
+{
+    font-family:Tahoma;
+    font-size: 48px;
+    margin: 5px;
+    text-align: center;
+    background-color: rgba(241, 142, 142, 0.3);;
+}
+
+h2{color:blue;}
+
+h2, b {font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+     margin: 10px;
+     text-shadow: 1px 2px #ff0000;
+     font-weight: bold;
+    }
+
+p  {  
+        margin: 10px;}
+
+
+.student-owner {
+
+    background-color: rgba(241, 142, 142, 0.3);
+    
+
+}
+
+
+.student-contributor{
+ /*Your stuff here*/   
+ margin: 10px;
+}
